@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Taghavi and I work at Silicon Swamp a Software / Blockchain company - @dtaghavi
 - 👀 I Graduated from University of California Irvine with a Bachelors in Computer Science. I currently have been gaining increasing interest
-in block chain technology. I started a job at Silicon Swamp coming up on a year now. I am currently a Junior Full Stack Developer where we work heavily in the web3, crypto, blockchain space. We are a small team but we are the core developers of the Wire Network.
-- 🌱 I’m currently learning - Angular, Ionic, Typescript, NodeJs, MySQL, Solidity, C++ with EosIo contracts, and work as core developers of the Wire network.
+in block chain technology. I work at Silicon Swamp for about a year and a half. I am currently work a Junior Full Stack Developer / Blockchain Engineer where I work on a variety of products. We are heavily invested in the Web3, Blockchain, DApps, SaaS sphere of things. We are a small team and are the core developers of the Wire Network.
+- 🌱 I’m currently learning - Angular, Ionic, Typescript, NodeJs, MySQL, Solidity, C++ w/ EOSIO smart contracts and work as a core developer of the Wire network.
 - 📫 How to reach me - https://www.linkedin.com/in/dtaghavi/ or email me at: detaghavi@gmail.com
 
 <!---
